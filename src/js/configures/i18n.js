@@ -1,7 +1,7 @@
 define([], () => {
   return {
     defaultLanguage: 'en',
-    supports: ['en', 'ko', 'fr', 'ch', 'de', 'jp', 'pt', 'da', 'pl', 'es', 'cs', 'uk', 'ru'],
+    supports: ['en', 'ko', 'fa', 'fr', 'ch', 'de', 'jp', 'pt', 'da', 'pl', 'es','it', 'cs', 'uk', 'ru'],
     weeks: {
       en: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
       ko: ['일', '월', '화', '수', '목', '금', '토'],
